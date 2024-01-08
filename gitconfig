@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = mouadzamani@gmail.com
+	name = mouad zamani
